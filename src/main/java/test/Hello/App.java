@@ -18,7 +18,6 @@ public class App
 {
     public static void main( String[] args ) throws Exception
     {
-	    System.out.println("Mrityunjay");
     	FileInputStream fs=new FileInputStream("C:\\Users\\Reddy\\Documents\\Book1.xlsx");
     	Workbook work=new XSSFWorkbook(fs);
     	Sheet sheet=work.getSheetAt(0);
