@@ -6,7 +6,7 @@ public class Calculator {
 	
 	
 	
-//test 
+
 	public Calculator (int x, int y) {
 		
 	this.x = x;
